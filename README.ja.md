@@ -11,7 +11,7 @@ SQL の N+1 クエリを静的解析で検出するための go/analysis ベー�
 
 ## 前提
 - Go Modules 利用を前提
-- Go 1.20 以降を推奨（`golang.org/x/tools` のバージョン要件に依存）
+- Go 1.22 以降を推奨（`golang.org/x/tools` のバージョン要件に依存）
 
 ## ビルド
 

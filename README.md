@@ -11,7 +11,7 @@ For the Japanese version of this document, see [README.ja.md](README.ja.md)
 
 ## Requirements
 - Go Modules
-- Go 1.20+ recommended (depends on `golang.org/x/tools` requirements)
+- Go 1.22+ recommended (depends on `golang.org/x/tools` requirements)
 
 ## Build
 
